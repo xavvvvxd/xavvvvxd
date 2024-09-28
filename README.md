@@ -37,7 +37,7 @@ You inspire me to continue what I do :)
 
 ...that's a lie. I do this for my own selfish gain >:)
 
-Anyways, this is getting too long. I'm now going to say bye in every language I know how to say bye in, for no particular reason.
+Anyways, this is getting too long. I'm now going to say bye in as many languages as possible. This will be updated.
 
 Bye!
 Da bo!
@@ -45,4 +45,5 @@ Doei!
 Sayonara!
 Tschüss!
 Au revoir!
+Paçim!
 ```
