@@ -1,3 +1,4 @@
+```
 D:\>ssh xavvvv@oasis
 xavvvv@oasis's password:
 Linux oasis 5.10.103-v7l+ #1529 SMP Tue Mar 8 12:24:00 GMT 2022 armv7l
@@ -44,3 +45,4 @@ Doei!
 Sayonara!
 Tschüss!
 Au revoir!
+```
